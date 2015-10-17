@@ -1,2 +1,2 @@
 # vaniryk
-A truly lighter jQuery alternative
+A light and easy to use DOM wrapper.
